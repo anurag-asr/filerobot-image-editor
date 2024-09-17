@@ -1,9 +1,0 @@
-{
-  "compilerOptions": {
-    "baseUrl": "packages/react-filerobot-image-editor/src",
-    "jsx": "preserve"
-  },
-  "include": [
-    "packages/react-filerobot-image-editor/src"
-  ]
-}
